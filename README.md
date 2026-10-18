@@ -1,12 +1,24 @@
 
 <div align="center">
 
-## CLICK AND ENJOY
+<h2>CLICK AND ENJOY</h2>
 
-### 🚀 Learn Data Structures & Algorithms Through Interactive Visualizations 
+<h3>🚀 Interactive learning </h3>
 
-### Website Link - 🟡 [▶ LAUNCH INTERACTIVE DSA MOTION LAB](https://saikatmukherjeelinux.github.io/FreeResources/dsa-motion-lab/)
+<h3>Website Links:</h3>
 
-### Source Code - 💻 [▶ EXPLORE GITHUB SOURCE CODE](https://github.com/saikatmukherjeelinux/FreeResources/tree/main/dsa-motion-lab)
+<p>
+  <b>DSA-ALGO:</b>
+  <a href="https://saikatmukherjeelinux.github.io/FreeResources/dsa-motion-lab/">
+    ▶️ LAUNCH INTERACTIVE DSA MOTION LAB
+  </a>
+</p>
+
+<p>
+  <b>Python:</b>
+  <a href="https://saikatmukherjeelinux.github.io/FreeResources/python-motion-lab/">
+    ▶️ LAUNCH INTERACTIVE PYTHON MOTION LAB
+  </a>
+</p>
 
 </div>
