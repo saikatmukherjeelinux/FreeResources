@@ -3,7 +3,7 @@
 
 ## CLICK AND ENJOY
 
-### 🚀 Learn Data Structures & Algorithms Through Interactive Visualizations
+### 🚀 Learn Data Structures & Algorithms Through Interactive Visualizations 
 
 ### Website Link - 🟡 [▶ LAUNCH INTERACTIVE DSA MOTION LAB](https://saikatmukherjeelinux.github.io/FreeResources/dsa-motion-lab/)
 
