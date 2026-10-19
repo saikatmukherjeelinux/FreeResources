@@ -1,24 +1,13 @@
+# Motion Lab dashboard
 
-<div align="center">
+Open `index.html` in this folder to access the shared dashboard. Select **Python Motion Lab** or **DSA Motion Lab** to open that website with its own lessons, tools, and content. Each website includes a **Dashboard** link to return here.
 
-<h2>CLICK AND ENJOY</h2>
+The two projects remain in their original folders so their assets and lesson content stay together.
 
-<h3>🚀 Interactive learning </h3>
+For local HTTP hosting, run this command from this folder:
 
-<h3>Website Links:</h3>
+```powershell
+python -m http.server 8000
+```
 
-<p>
-  <b>DSA-ALGO:</b>
-  <a href="https://saikatmukherjeelinux.github.io/FreeResources/dsa-motion-lab/">
-    ▶️ LAUNCH INTERACTIVE DSA MOTION LAB
-  </a>
-</p>
-
-<p>
-  <b>Python:</b>
-  <a href="https://saikatmukherjeelinux.github.io/FreeResources/python-motion-lab/">
-    ▶️ LAUNCH INTERACTIVE PYTHON MOTION LAB
-  </a>
-</p>
-
-</div>
+Then visit http://localhost:8000. Serve or publish this whole parent folder to keep both websites available from the dashboard. No build step is required.
